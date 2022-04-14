@@ -103,7 +103,8 @@ Project Link: [https://github.com/blablabliam/Lightning-Analyzer](https://github
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgments
 
-* [Starizona](https://starizona.com/)
+* [Saulius Lukse](https://lukse.lt/uzrasai/2015-05-lightning-strikes-and-python/)
+
 
 
 
